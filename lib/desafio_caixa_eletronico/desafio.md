@@ -4,7 +4,7 @@
 
 Projetar e desenvolver uma aplicação **em Dart**, executada no **terminal**, que simule um **caixa eletrônico robusto**, com foco em **arquitetura**, **boas práticas**, **tratamento avançado de erros**, **testabilidade** e **qualidade de código**.
 
-> ⚠️ **Importante:** Este documento descreve apenas o **desafio técnico**. **Não é para gerar código pronto**.
+> ⚠️ **Importante:** Este documento descreve apenas o **desafio técnico**. 
 
 ---
 
